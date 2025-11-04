@@ -1,5 +1,3 @@
-# Java
-
 <!DOCTYPE html>
 <html lang="eu">
 <head>
